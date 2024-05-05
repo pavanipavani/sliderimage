@@ -1,0 +1,242 @@
+.body
+{ 
+    border: 2px solid black;
+    background-color: rgb(18, 18, 18);
+    padding: 10px;
+}
+.navbar
+{
+    padding: 5px;
+    border: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 0 -7px 10px white;
+    background-color: rgb(15, 15, 15); 
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;  
+}
+.titlesize
+{
+    width: 56px;
+    height: 56px;
+    margin-top: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 15px;
+}
+.flex
+{
+    display: flex;
+}
+.color
+{
+    color: rgb(90, 116, 230);
+    font-weight: bold;
+}
+.white
+{
+    color: rgb(215, 231, 246);
+}
+.display
+{
+    color: white;
+    margin-left: 780px;
+    margin-top: 10px;
+}
+.marginNav
+{
+   margin-top: 20px;
+   padding-left: 15px;
+   padding-right: 25px;
+   height: 25px;
+   font-size: 18px;
+   font-weight: 400;
+}
+.lineimagesize
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.bodycontent
+{
+    width: 100%;
+    height: 1000px;   
+}
+.bodyinfo
+{
+    margin-top: 200px; 
+}
+.text
+{
+    font-size: 60px;
+    color: white;
+    font-weight: 950;
+    line-height: 5px;
+    margin-left: 60px;
+    letter-spacing: 2px  
+}
+.shadow 
+{
+    background: linear-gradient(to right,rgb(47, 130, 237),rgb(47, 130, 237), rgb(229, 172, 229));
+}
+.shadow1
+{
+    background: linear-gradient(to right,rgb(51, 123, 190),rgb(72, 134, 220)); 
+}
+.shadow2 
+{
+    background: linear-gradient(to right,rgb(92, 133, 190), rgb(104, 104, 203) ,rgb(186, 131, 186));    
+}
+.texting
+{
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+.text1
+{
+    color: rgb(179, 175, 175);
+    font-size: 23px;
+    margin-left: 60px;
+    line-height: 5px;  
+}
+.box
+{
+    width: 280px;
+    height: 57px;
+    border: 2px solid black;
+    margin-left: 60px;
+    top: -68px;
+    position: relative;
+    background-color: rgb(41, 114, 248);
+    border-radius: 4px;
+    display: flex;
+    
+}
+.middletext
+{
+    margin-top: 12px;
+    color: white;
+    font-weight: 500;
+    margin-left: 25px;
+}
+.arrow
+{
+    font-size: 25px;
+    font-weight: 700;
+}
+.bottombox
+{
+    width: 283px;
+    height: 57px;
+    border: 2px solid black;
+    background-color: white;
+    margin-left: 67px;
+    margin-top: 60px;
+    border-radius: 8px;
+}
+.secondbox
+{
+    width: 223px;
+    height: 47px;
+    border: 2px solid rgb(133, 68, 255),rgb(217, 134, 217);
+    background: linear-gradient(to right, rgb(133, 68, 255),rgb(172, 127, 227));
+    position: relative;
+    left: 370px;
+    top: -130px;
+    border-radius:  5px;
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+}
+.starimage
+{
+    margin-top: -50px;
+    margin-left: 60px;
+    display: flex;
+}
+.starsize
+{
+    width: 40px;
+    height: 40px;  
+    
+}
+.trust
+{
+    margin-left: 5px;
+    color: white;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 600;
+   
+}
+.fivestar{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.fivestars
+{
+    width: 45px;
+    height: 45px;
+}
+.trustscore
+{
+    margin-left: 63px;
+    color: white;
+    margin-top: 4px;
+}
+.youtubesize
+{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.imagesize
+{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+}
+.insta
+{
+    color: white;
+    margin-top: 17px;
+    margin-left: 7px;
+    margin-right: 20px;
+    font-size: 16px;
+}
+.followers
+{
+    margin-left: -185px;
+    margin-top: 50px;
+    color: white;
+    font-weight: 500;
+}
+.borders
+{
+    height: 1000px;
+    width: 800px;
+}
+.testimonial
+{
+    width: 650px;
+    height: 470px;
+    
+}
+.bordersize
+{
+    margin-top: 150px;
+}
+.jsimagesize
+{
+    width: 230px;
+    height: 250px;
+}
+.jsimage
+{
+    margin-top: -80px;
+    text-align: center;
+}
